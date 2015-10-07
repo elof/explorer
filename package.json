@@ -50,7 +50,7 @@
     "gulp-mocha": "^1.0.0",
     "gulp-mocha-phantomjs": "0.5.0",
     "mocha-phantomjs": "^3.5.0",
-    "phantomjs": "^1.9.9",
+    "phantomjs": "1.9.7-15",
     "sinon": "1.14.1"
   }
 }
